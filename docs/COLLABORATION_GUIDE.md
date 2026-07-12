@@ -146,10 +146,10 @@ git push origin --delete feature/your-task-name   # Delete remote branch
 
 | Member | GitHub Username | Recommended Branch Name | Core Task |
 | :--- | :--- | :--- | :--- |
-| Yicheng Jiang (Team Lead) | yc-eagle | `feature/simulation-engine` | Simulation engine, data schema, final presentation, overall integration |
-| Shuoyang Jin | — | `feature/sql-model` | SQL queries, pandas cleaning, regression/classification models |
-| Jiaxin Wang | — | `feature/dashboard` | Streamlit dashboard development, deployment configuration |
-| Quanquan Lu | — | `feature/narrative` | Report writing, README, PPT, theoretical framing, AI usage disclosure |
+| Yicheng Jiang (Team Lead) | yc-eagle | `feature/integration` `feature/docs-organization` | Initialization, data schema, final presentation, overall integration |
+| Shuoyang Jin | Caprielle | `feature/sql-model` | Simulation engine, SQL queries, pandas cleaning, regression/classification models |
+| Jiaxin Wang | Cleo7758 | `feature/dashboard` | Streamlit dashboard development, deployment configuration |
+| Quanquan Lu | 677-lqq68 | `feature/narrative` | Report writing, README, PPT, theoretical framing, AI usage disclosure |
 
 **Everyone works independently on their own branch, no interference.**
 
